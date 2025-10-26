@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Part 1</string>
+
+    <!--MAIN ACTIVITY-->
+    <string name="welcome">Benvingut!</string>
+    <string name="actual_date">Data actual:</string>
+    <string name="asking_name">"INTRODUEIX EL TEU NOM D'USUARI:"</string>
+    <string name="putName">Nom</string>
+    <string name="btn_start">INICIAR</string>
+    <string name="btn_goBack">TORNAR ENRERE</string>
+
+    <string name="asking_number">"ENDEVINA UN NOMBRE DE L'1 AL 3"</string>
+    <string name="putNumber">1, 2 o 3</string>
+    <string name="btnSolution">SOLUCIÓ</string>
+    <!--SUCCESS ACTIVITY-->
+    <string name="description_success">Has encertat el nombre,</string>
+    <!--ERROR ACTIVITY-->
+    <string name="description_error">Has fallat el nombre,</string>
+
+
+</resources>

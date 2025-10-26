@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Part2</string>
+    <string name="hombre">HOMBRE</string>
+    <string name="mujer">MUJER</string>
+    <string name="heigth">ALTURA</string>
+    <string name="weigth">PESO</string>
+    <string name="age">EDAD</string>
+    <string name="calculate">CALCULAR</string>
+    <string name="recalculate">RE-CALCULAR</string>
+    <string name="result">TU RESULTADO</string>
+
+    <string name="error">ERROR</string>
+
+    <string name="title_bajo_peso">BAJO PESO</string>
+    <string name="description_bajo_peso">ESTÁS POR DEBAJO DE LO ÓPTIMO PARA TU PESO Y TAMAÑO</string>
+
+    <string name="title_peso_normal">NORMAL</string>
+    <string name="description_peso_normal">ESTÁS EN LO ÓPTIMO PARA TU PESO Y ALTURA</string>
+
+    <string name="title_sobrepeso">SOBREPESO</string>
+    <string name="description_sobrepeso">ESTÁS POR ENCIMA DE LO ÓPTIMO PARA TU PESO Y TAMAÑO</string>
+
+    <string name="title_obesidad">OBESIDAD</string>
+    <string name="description_obesidad">ESTÁS MUY POR ENCIMA DE LO ÓPTIMO PARA TU PESO Y TAMAÑO</string>
+
+</resources>
